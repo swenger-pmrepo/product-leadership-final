@@ -1,4 +1,4 @@
-# My Strategy: Product Leadership Final Project
+# My Strategy: Product Leadership Final Project, by Steven Wenger
 
 > My final project for Product School's **Product Leadership** certification. One scenario, **Fable Growth** (B2C) or **Meridian Foundations** (B2B), or my own instructor-approved initiative, taken from a board-ready product strategy to a complete business case across six in-class labs.
 
