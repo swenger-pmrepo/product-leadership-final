@@ -18,7 +18,7 @@
 
 ## 3. OKR cascade
 
-> **Objective:** Become the single source of truth for all Meridian users while in the field.
+> **Objective:** Become the single system of record for all Meridian users while in the field.
 >
 > - **KR1:** 55% of field users activated this quarter are active three or more days a week at week 8.
 > - **KR2:** 60% of field updates get an office action (view, assign, close, or link to an RFI) within 24 hours.
