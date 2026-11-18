@@ -26,6 +26,6 @@
 
 ## 4. AI pressure-test
 
-**Most valid challenge:** The AI challenged some of my initial metrics in my OKR, with the goal to have them check against repeated usage and value. The initial versions might not have captured long term value added that showed we had created new habits with field users.
+**Most valid challenge:** The AI challenged some of my initial metrics in my OKRs, with the goal to have them check against repeated usage and value. The initial versions would not have shown whether we had actually created new habits with field users.
 
-**What I will change and what I will defend:** I've updated my OKRs to be more specific around repeated usage.
+**What I will change and what I will defend:** I've updated my OKRs to be more specific around repeated usage and habit formation. 
