@@ -1,25 +1,25 @@
-# Outcome Roadmap & Trade-off Memo
+# Outcome Roadmap & Trade-off Memo: Meridian Foundations
 
 > Module 2 · Turn Your Strategy into an Outcome Roadmap
 
 ## 1. Trade-off memo
 
-> **Rock 1:** _____
+> **Rock 1:** Add a time-tracking module (supports KR1): One of the things that will be stopping the office users from being able to close or move on from work is having to chase field users down for their time sheets, etc. If we can move time-tracking into the app, that will consolidate the information into our system of record and make it easier to close out work when it is done.
 >
-> **Rock 2:** _____
+> **Rock 2:** Simplify the daily log: reduce from 14 required fields to 4 (supports KR2): Simplifying the daily log will benefit everyone. The field worker will experience less friction when logging their work for their day, which will likely make them more likely to complete the daily log. The daily log being complete will then make it easier for the office to coordinate or close out work based on those logs.
 >
-> **Rock 3:** _____
+> **Rock 3:** Add a photo markup and annotation tool for field teams (supports KR3): We know that users in the field are often using their camera app on their phone, instead of using Meridian in the field. If we can bring them into Meridian to complete this task instead, it will make it easier for office users to review and approve work completed that day, or adjust as needed otherwise.
 >
-> **Hard no 1:** _____
+> **Hard no 1:** Refresh the web UI (feedback: “looks outdated” from prospects): A UI overhaul can be a lot of work, and while it may give the product a fresh feel it doesn't create new value, especially for our users in the field. We can focus on the web experience once field adoption has improved.
 >
-> **Hard no 2:** _____
+> **Hard no 2:** Build an executive reporting dashboard with custom KPIs: Executive reporting dashboards are another feature that doesn't serve the field users that we have chosen to prioritize. Executive level users are important, but we have made a conscious decision to not focus on them at the moment.
 >
-> **Hard no 3:** _____
+> **Hard no 3:** Create a foreman-facing mobile app (separate from the PM web app): This would be a very substantial undertaking that might only confuse matters for field users. We can handle different levels of users and their needs in our mobile experience with roles and permissions instead of building a separate app.
 
 ## 2. Outcome roadmap
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
+| Now (0 to 3 mo) | #12 [KR1] We bet that moving crew time entry into Meridian will make daily app use a habit for newly activated field users; #4 [KR2] We bet that cutting the daily log from 14 required fields to 4 will get complete logs to the office the same day, so it can act within 24 hours, for foremen and office coordinators; #2 [KR3] We bet that marking up proof-of-work photos in Meridian, not the camera app, will speed up approval for office approvers and the foremen who submit the work | #12: Field Mobile + Office Web; #4: Field Mobile + Design; #2: Field Mobile + Office Web | #12: share of new field users logging time 3+ days a week by week 4, then 55% active 3+ days a week at week 8; #4: daily log completion goes up and time to submit goes down, then 60% of field updates get an office action within 24 hours; #2: share of proof-of-work photos taken in Meridian vs. uploaded from the camera roll, then a 35% cut in median days from work complete to approval |
+| Next (3 to 6 mo) | #1 Offline-first mobile for job sites with poor signal (KR1, KR2). This comes after Now because the Now bets will show how often time, logs and photos stall on site, which tells us how much to build; #11 Push alerts for schedule changes (KR1). This comes after Now because an alert only builds a habit once there is something worth doing when the user opens the app; #3 Data model for multi-project views (How to Win). This comes after Now because time, photos and the shorter log add new data, and we should model it once, after it settles; #9 AI-drafted RFIs from field updates (KR2). This comes after Now because it needs the shorter log and marked-up photos as clean input, and with no user request behind it yet, we should test demand first | #1: Platform + Field Mobile; #11: Field Mobile + Growth; #3: Platform + Data & Insights; #9: Office Web + AI/ML | #1: failed or late sync rate, and log completion on low-signal sites; #11: share of alerted users who open the app that day, plus week-8 activity lift; #3: multi-project views served with no custom work; #9: share of field updates linked to an RFI within 24 hours, and how much users edit the AI drafts |
+| Later (6 to 12 mo) | Bets, not commitments: #14 Bet: a subcontractor portal with document sharing will make Meridian the record for the whole site, not just the general contractor's crew; #5 Bet: auto-built compliance checklists will help field users check work against agreements; #6 Bet: weather data in scheduling will cut last-minute schedule changes for foremen | Unstaffed. Likely homes: #14: Office Web + Field Mobile; #5: Field Mobile; #6: Office Web | Signals to test, not targets: #14: sub crews active per project, and enterprise deals it unblocks; #5: checklist use per job, and fewer rejected approvals; #6: share of schedule changes made less than 24 hours out |
