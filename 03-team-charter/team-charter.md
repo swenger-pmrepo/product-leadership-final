@@ -4,7 +4,7 @@
 
 ## 1. What We Own
 
-> **We own:** The Foundations team (me as initiative owner, PM 1, Field Mobile, Office Web and Design) owns the three Now bets: crew time entry, the 4-field daily log and in-app photo markup. We're measured by 55% of new field users active 3+ days a week at week 8, 60% of field updates acted on by office coordinators within 24 hours, and a 35% cut in median days to approval. PM 1 keeps at least 70% of Field Mobile's sprint capacity on those bets through quarter end, and I set the order and start gates for the Next bets.
+> **We own:** The Foundations team (Director, PM 1, Field Mobile, Office Web and Design) owns the three Now bets: crew time entry, the 4-field daily log and in-app photo markup. We're measured by 55% of new field users active 3+ days a week at week 8, 60% of field updates acted on by office coordinators within 24 hours, and a 35% cut in median days to approval. PM 1 keeps at least 70% of Field Mobile's sprint capacity on those bets through quarter end, and I set the order and start gates for the Next bets.
 >
 > **Out of scope:** PM 2 and Enterprise Sales own renewal requests and features for single accounts; Platform owns offline sync and, with Data & Insights, the multi-project data model. Growth owns push alert delivery, and Office Web and AI/ML own AI-drafted RFIs. The Later bets (sub portal, checklists, weather) have no team or PM, so Enterprise Sales can't sell them and no engineering lead can staff them this quarter.
 >
